@@ -41,7 +41,6 @@ xx(a) {} //推断不出来
 推断不代表糊弄,防止运行期报错
 ```
 
-
 _____
 使用scala：
 1.  开发     jdk      sdk（编译器）
@@ -72,10 +71,7 @@ scala是包级别区分，类名可以和文件名不一致
 ```
 
 _____
-TODO:2019-09-29:
-MarkDown
 
-IDEA中 plugins 中搜索  mind 安装 idea mind map
 
 
 
